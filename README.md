@@ -1,20 +1,4 @@
 # Vérification Formelle d'Applications Critiques avec Réseaux de Petri
-### Sujet 4 — Système de triage médical
-
----
-
-## Auteurs
-
-| Nom | Prénom |
-|-----|--------|
-| BEY | Benjamin |
-| FRANÇAIS | Noé |
-| EL HAJ-BENALI | Anas |
-| ARES-WAGNER | Baptiste |
-| CHURCH | William |
-| OUHAB | Mohammed |
-
----
 
 ## Table des matières
 
